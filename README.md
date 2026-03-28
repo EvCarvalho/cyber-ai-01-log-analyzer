@@ -24,3 +24,6 @@ Analisar logs de segurança e identificar atividades suspeitas.
 - [ ] Contar tentativas
 - [ ] Detectar brute force
 - [ ] Gerar relatório
+
+## Versão 1
+Detector simples de brute force baseado em contagem de falhas.
