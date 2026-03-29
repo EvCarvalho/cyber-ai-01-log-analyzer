@@ -24,3 +24,6 @@ Analyze security logs and identify suspicious activity.
 - [ ] Count attempts
 - [ ] Detect brute force
 - [ ] Generate report
+
+## Version 1 
+- Simple brute force detector based on failure counting.
