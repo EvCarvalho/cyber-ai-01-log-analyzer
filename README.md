@@ -1,29 +1,26 @@
-# Cyber AI 01 - Log Analyzer
+# Cyber ​​AI 01 - Log Analyzer
 
-## Objetivo
-Analisar logs de segurança e identificar atividades suspeitas.
+## Objective
+Analyze security logs and identify suspicious activity.
 
-## Funcionalidades
-- Leitura de arquivos de log
-- Contagem de tentativas por IP
-- Detecção de comportamento suspeito
-- Geração de relatório
+## Features
+- Reading log files
+- Counting attempts by IP address
+- Detecting suspicious behavior
+- Generating reports
 
-## Tecnologias
+## Technologies
 - Python
-- Pandas (futuro)
-- Segurança básica
+- Pandas (future)
+- Basic security
 
-## Exemplo de Log
+## Example Log
 192.168.0.10 login failed
 192.168.0.10 login failed
 192.168.0.20 login success
 
 ## Roadmap
-- [ ] Ler arquivo de log
-- [ ] Contar tentativas
-- [ ] Detectar brute force
-- [ ] Gerar relatório
-
-## Versão 1
-Detector simples de brute force baseado em contagem de falhas.
+- [ ] Read log file
+- [ ] Count attempts
+- [ ] Detect brute force
+- [ ] Generate report
